@@ -5,7 +5,8 @@
 **Description**:  
 CO2 levels were measured for 1.5 hours during a lecture in a classroom. The graph below shows CO2 concentrations dropping sharply after ventilation was applied.
 
-![image](https://github.com/user-attachments/assets/e13605d3-1ee2-4103-8263-664a4abd2b41)
+![image](https://github.com/user-attachments/assets/bcb0732c-d898-4468-a121-9125c28dc89c)
+
 
 - In an empty room, CO2 levels remained stable at 700–900 ppm. However, levels increased significantly when people were present.
 - CO2 levels rose proportionally with the number of people in the room, but ventilation (10–20 minutes) caused a sharp decrease.
