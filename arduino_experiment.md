@@ -29,7 +29,7 @@ The carbonation strength of four different soft drinks was measured by comparing
 - **Results**:  
   The results were visualized as a bar chart for clarity:
 
-  ![image](https://github.com/user-attachments/assets/2d8c3a47-935c-424d-8164-2af684b11af7)
+ ![image](https://github.com/user-attachments/assets/4d5c7752-ac74-4dc6-b36d-48c820146170)
 
 
   Based on the results, the CO2 change was observed in the following order:  
